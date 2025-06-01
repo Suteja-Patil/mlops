@@ -50,6 +50,11 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+/mlruns
+/mlflow-experiment-tracking/mlruns/*
+/mlflow-experiment-tracking/data
+/mlflow-experiment-tracking/output
+mlflow.db
 
 # Translations
 *.mo
